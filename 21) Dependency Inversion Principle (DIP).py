@@ -1,6 +1,6 @@
 class Student:
     def message(self):
-        print("Name: Mehak")
+        print("Name: Mahek")
         print("College: MIT ADT")
 
 class Display:
