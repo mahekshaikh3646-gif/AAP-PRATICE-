@@ -4,7 +4,7 @@ class Person:
 
 class Student(Person):
     def info(self):
-        print("Student: Aakshad")
+        print("Student: Mahek")
 
 p = Student()
 p.info()
